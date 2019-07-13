@@ -4,11 +4,11 @@ Topics:
  * Events
  * The Event Object
  * Event Handlers
-  * click
-  * mousedown
-  * mouseup
-  * scroll
-  * keydown
+ * click
+ * mousedown
+ * mouseup
+ * scroll
+ * keydown
 
 ## Objectives
  * Manipulate the DOM in response to user events using JavaScript
@@ -26,7 +26,7 @@ Topics:
   * When a block is clicked, it should go to the top of the stack.
 
  Travelers:
-  * While a mouse is clicked down on a box, it should move to the right (It should coninuously move, there is no limit on how far it will go).
+  * While a mouse is clicked down on a box, it should move to the right (It should continuously move, there is no limit on how far it will go).
   
 ## Stretch Goals
   
